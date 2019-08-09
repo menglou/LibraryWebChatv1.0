@@ -1,0 +1,60 @@
+//搜索框的view
+.searchinput{
+    width: 100%;
+    float: left;
+    background-color: lightblue
+}
+//图标的view
+.icon{
+    width: 30%;
+    float: left;
+    text-align: right;
+    padding-top: 18px;
+}
+//输入框的view
+.input-booknameorauthorview{
+    width: 70%;
+    float: left;
+    background-color: lightblue
+}
+//输入框
+.at-input{
+    margin-left: 10px;
+    padding: 10px 0px;
+    background-color: lightblue
+}
+//输入框 的input
+.at-input input
+{
+    font-size: 22px;
+}
+
+//图片轮播的view
+.shuffling-view{
+    width: 100%;
+    float: left;
+}
+//image的class
+.swiper-img{
+    width: 100%;
+}
+
+//通告栏view
+.notice-view{
+    width: 100%;
+    float: left;
+}
+
+//列表view
+.list-view{
+    width: 100%;
+    float: left;
+    background-color: #eef
+}
+
+.list-view .at-grid__flex .content-inner__text
+{
+    font-size: 25px;
+   
+}
+

@@ -1,0 +1,80 @@
+.container{
+    margin: 0px;
+    padding: 0px;
+    font-size: 14px;
+    font-family: '微软雅黑 宋体'
+}
+.img-view{
+    width: 100%;
+    height: 330px;
+    
+}
+.top-image{
+     width: 100%;
+     height: 330px;
+    
+} 
+.form-input{
+    width: 100%;
+    margin-bottom: 100px;
+}
+
+//form表单用户账号所在的view
+.form-input-user{
+    width: 100%;
+    float: left;
+    border-bottom: 1px solid #eee;
+}
+//用户账号图标view
+.form-input-user-icon{
+    width: 15%;
+    float: left;
+    
+}
+.form-input-user-input{
+    width: 85%;
+    float: left;
+   
+}
+
+.form-input-pwd{
+    width: 100%;
+    float: left;
+    border-bottom: 1px solid #eee;
+}
+.form-input-pwd-icon{
+    width: 15%;
+    float: left;
+}
+.form-input-pwd-input{
+    width: 85%;
+    float: left;
+}
+
+//用户图片
+.img-user{
+    width: 40px;
+    height: 40px;
+    padding: 23px 0px 22px 50px;
+}
+
+//密码图片
+.img-pwd{
+    width: 40px;
+    height: 40px;
+    padding: 26px 0px 26px 50px;
+}
+
+//input输入框
+.at-input input{
+    border-left: 1px solid #eee;
+    padding-left: 40px;
+}
+
+//提交按钮view
+.submit-view{
+    margin-top: 280px;
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
